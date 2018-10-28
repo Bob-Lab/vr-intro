@@ -1,0 +1,8 @@
+{
+  "name": "boracay-vr-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bob-Lab/boracay-vr-intro.git",
+  "author": "楊竑昕 <jk195417@gmail.com>",
+  "license": "MIT"
+}
