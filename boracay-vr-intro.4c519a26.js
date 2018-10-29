@@ -27,4 +27,4 @@ var t=require("process");!function(t,e,n,o){"use strict";if(t.console=t.console|
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./src/main.js"),require("./src/main.scss"),require("@fancyapps/fancybox/dist/jquery.fancybox.css");
 },{"./src/main.js":"HJD/","./src/main.scss":"V/u4","@fancyapps/fancybox/dist/jquery.fancybox.css":"MwTK"}]},{},["Focm"], null)
-//# sourceMappingURL=/boracay-vr-intro.4c519a26.map
+//# sourceMappingURL=boracay-vr-intro.4c519a26.map
