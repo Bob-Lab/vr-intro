@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "parcel index.html",
-    "predeploy": "rm -rf dist && parcel build index.html --public-url /boracay-vr-intro",
+    "predeploy": "rm -rf dist && parcel build index.html --public-url /boracay-vr-intro/",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
