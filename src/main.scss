@@ -1,9 +1,16 @@
 @import "~bootstrap/scss/bootstrap";
 
-#map {
+.map {
   min-height: 100vh;
-  background-image: url('../public/images/5hotel-map.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
+
+  &#boracay {
+    background-image: url('../public/images/boracay.png');
+  }
+
+  &#guam {
+    background-image: url('../public/images/guam.png');
+  }
 }
