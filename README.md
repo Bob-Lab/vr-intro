@@ -12,8 +12,8 @@
     -   hotel 5 Devonshire 影片 <https://www.youtube.com/watch?v=TdoPe__m_Vk>
 -   guam <https://bob-lab.github.io/vr-intro/#boracay>
     -   ![map](./public/images/guam.png)
-    -   hotel 1 BW 影片 <https://www.youtube.com/watch?v=y2R7H74poq8>
-    -   hotel 2 B&B 影片 <https://www.youtube.com/watch?v=ec9lLFoJDmA>
-    -   hotel 3 Wartburger 影片 <https://www.youtube.com/watch?v=oJntGDahits>
-    -   hotel 4 Ditholo 影片 <https://www.youtube.com/watch?v=Sv9L8BB6nK8>
-    -   hotel 5 Devonshire 影片 <https://www.youtube.com/watch?v=5JQS1Xy9fS>
+    -   hotel 1 Bermuda Villa 影片 <https://www.youtube.com/watch?v=y2R7H74poq8>
+    -   hotel 2 Palace Resort 影片 <https://www.youtube.com/watch?v=ec9lLFoJDmA>
+    -   hotel 3 Hotel Kolbe Guam 影片 <https://www.youtube.com/watch?v=oJntGDahits>
+    -   hotel 4 Promenade Hotel 影片 <https://www.youtube.com/watch?v=Sv9L8BB6nK8>
+    -   hotel 5 Etosha Safari Lodge 影片 <https://www.youtube.com/watch?v=5JQS1Xy9fS>
