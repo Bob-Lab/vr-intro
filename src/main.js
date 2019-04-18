@@ -12,6 +12,8 @@ function show(selector) {
 function showContentByHash() {
   if (window.location.hash === '#boracay') {
     show("#boracay")
+  } else if (window.location.hash === '#boracay-2') {
+    show("#boracay-2")
   } else if (window.location.hash === '#guam') {
     show("#guam")
   } else {

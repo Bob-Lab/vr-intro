@@ -10,6 +10,13 @@
     -   hotel 3 Wartburger: <https://www.youtube.com/watch?v=EuV6veRPhdE>
     -   hotel 4 Ditholo: <https://www.youtube.com/watch?v=CV400h8IsRQ>
     -   hotel 5 Devonshire: <https://www.youtube.com/watch?v=wEpeZkU4b1M>
+-   boracay-2 <https://bob-lab.github.io/vr-intro/#boracay-2>
+    -   ![map](./public/images/boracay-2.png)
+    -   hotel 1 BW: ![](./public/images/boracay-2-BW.jpg)
+    -   hotel 2 B&B: ![](./public/images/boracay-2-B&B.jpg)
+    -   hotel 3 Wartburger: ![](./public/images/boracay-2-War.jpg)
+    -   hotel 4 Ditholo: ![](./public/images/boracay-2-Ditholo.jpg)
+    -   hotel 5 Devonshire: ![](./public/images/boracay-2-Devon.jpg)
 -   guam <https://bob-lab.github.io/vr-intro/#boracay>
     -   ![map](./public/images/guam.png)
     -   hotel 1 Bermuda Villa: <https://www.youtube.com/watch?v=y2R7H74poq8>
